@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For Moanbot
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Moanbot	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+mouthHappy	KEYWORD2
+mouthSad	KEYWORD2
+mouthFlat	KEYWORD2
+mouthRipple	KEYWORD2
+mouthCustom	KEYWORD2
+nose	KEYWORD2
+hat	KEYWORD2
