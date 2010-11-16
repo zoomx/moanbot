@@ -20,3 +20,9 @@ mouthRipple	KEYWORD2
 mouthCustom	KEYWORD2
 nose	KEYWORD2
 hat	KEYWORD2
+play	KEYWORD2
+tempReadLeft	KEYWORD2
+tempReadRight	KEYWORD2
+lightReadLeft	KEYWORD2
+lightReadRight	KEYWORD2
+tilt	KEYWORD2

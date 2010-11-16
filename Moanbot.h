@@ -1,6 +1,6 @@
 /* Arduino Moanbot Library
  * by Peter Knight
- * Copyright (C) 2009 TinkerLondon.com
+ * Copyright (C) 2010 TinkerLondon.com
  *
  * This Library is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

@@ -3,7 +3,7 @@
  *  
  * This file is part of the Arduino Moanbot Library
  *
- * It patches the WaveHC library to use the internal PWM instead of an
+ * It patches William Greiman's WaveHC library to use the internal PWM instead of an
  * external DAC.
  *
  * This Library is free software: you can redistribute it and/or modify 
